@@ -6,6 +6,7 @@ The connections are :
 
 A Tactile switch is connected to Pin 9, and when the user presses it
 the status changes on the LCD.
+The messages rollover from 1-5 and starts over as the user keeps pressing the tactile switch.
 
 
 LCD RS pin to digital pin 12
@@ -31,3 +32,12 @@ Pin 9 of Arduino Uno is connected to the Tactile switch on one end.
 
 Reference : 
 https://www.arduino.cc/en/Tutorial/HelloWorld
+
+
+Some snapshots of the LCD Displaying the Statuses ( all dummy data )
+
+![img_20180221_194931](https://user-images.githubusercontent.com/14288989/36484532-a6505730-173f-11e8-974a-1fbb6edd8af6.jpg)
+
+![img_20180221_194938](https://user-images.githubusercontent.com/14288989/36484533-a69a66cc-173f-11e8-9003-a1337fce137a.jpg)
+
+![img_20180221_194945](https://user-images.githubusercontent.com/14288989/36484538-a84f9ffa-173f-11e8-9da9-5af4f981b3f6.jpg)
